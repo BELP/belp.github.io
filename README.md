@@ -4,6 +4,8 @@ BELP 社群網站
 Hackpad:
 https://belp.hackpad.com/BELP-Hackathon-Tmpu6bhJuAj
 
+IRC:
+freenode.net/#belp
 
 "Belp"，一群 Programmers，討論與程式開發相關的各種商業、法律議題。 
 
