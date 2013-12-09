@@ -31,7 +31,7 @@ server:      false    # deprecated
 host:        0.0.0.0
 port:        4000
 baseurl:     /belp.github.io
-url:         http://localhost:4000
+url:         http://belp.us
 lsi:         false
 
 maruku:
